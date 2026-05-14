@@ -1,3 +1,9 @@
 # Excluir carpetas específicas
 notebooks_datasets/h2o_temp
 notebooks_datasets/java_h2o
+
+# excluir archivos específicos de evaluación
+notebooks_datasets/h3_preguntas_mineria_datos.csv
+notebooks_datasets/h3_preguntas_mineria_datos.md
+
+
