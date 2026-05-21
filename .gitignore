@@ -5,5 +5,7 @@ notebooks_datasets/java_h2o
 # excluir archivos específicos de evaluación
 notebooks_datasets/h3_preguntas_mineria_datos.csv
 notebooks_datasets/h3_preguntas_mineria_datos.md
+notebooks_datasets/h4_preguntas_clusterizacion.csv
+notebooks_datasets/h4_preguntas_clusterizacion.md
 
 
